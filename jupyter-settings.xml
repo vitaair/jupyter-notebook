@@ -1,0 +1,16 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/Code/jupyter-notebook/.idea/jupyter-notebook.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="" />
+              <option name="urlString" value="http://127.0.0.1:12306" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
